@@ -1,5 +1,3 @@
-# The Answers
-
 - No.
 - 42
 - Majam
